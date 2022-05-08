@@ -1,0 +1,1 @@
+butun tasklarin cssni bir fayl ichinde yazmisham. qeyd de elemishem hansi hardna bashlayib harda bitir.
